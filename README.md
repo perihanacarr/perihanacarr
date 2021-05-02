@@ -29,7 +29,7 @@ Araştırmaya ve sürekli öğrenmeye açık bir mühendis hanım
   </td>
     </tr>
 </table>  
-
+-->
 
 <br/>  
 
