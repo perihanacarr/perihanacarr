@@ -13,7 +13,7 @@
 </a>
 
 
-</a> -->
+</a>
 <a href="mailto:perihanacar200@gmail.com" target="_blank">
 
 </a> 
@@ -29,7 +29,7 @@ Araştırmaya ve sürekli öğrenmeye açık bir mühendis hanım
   </td>
     </tr>
 </table>  
--->
+
 
 <br/>  
 
