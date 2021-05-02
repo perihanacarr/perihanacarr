@@ -1,5 +1,5 @@
 # readme
-## Hi, 👋 I'm Perihan Ozturk!  
+## Hi, 👋 I'm Perihan ACAR!  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=perihanacarr&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/perihanacarr?style=social)  
 
